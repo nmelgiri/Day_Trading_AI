@@ -1,0 +1,12 @@
+{
+	"Setting 1: Raw Numerical Inputs": {
+		"Action Space": {
+			"Type": "Dict",
+			"upper limit": 1,
+			"lower limit": -1
+		}
+	},
+	"Setting 2: Image(s) Input": {},
+	"history": 100,
+	"inputs": 5
+}
